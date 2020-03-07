@@ -1,0 +1,52 @@
+nav-link{
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.img-thumbnail{
+  width:100px;
+  margin:0.5em;
+}
+
+.jumbotron{
+  text-align: center;
+  margin: 0 1em;
+  height: 88%;
+  height: 88vh;
+  display: flex;
+  align-items: center;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,
+    #03A9F4 0%, #2196F3 47.7%, #3F51B5 92.3% );
+  color: white;
+}
+
+#arrow-down{
+  text-align: center;
+  margin: 0.5em;
+}
+
+section{
+  padding: 6em 1em;
+  text-align: center;
+}
+
+section h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 2em;
+}
+
+.div-center{
+  margin: 0 auto;
+}
+
+#projects{
+  background: #f7f7f7;
+  text-align: left;
+}
+
+#projects h2{
+  text-align: center;
+}
+
+.card{
+  box-shadow:0px 1px 27px -3px rgba(0, 0, 0, 0.2);
